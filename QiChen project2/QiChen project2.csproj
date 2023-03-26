@@ -81,7 +81,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Cursor1.cur" />
+<<<<<<< HEAD
     <Content Include="EmpRec.xml" />
+=======
+    <Content Include="EmpRac.xml" />
+>>>>>>> 210ada9b4d35b05369defcecf333f0d203d71945
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

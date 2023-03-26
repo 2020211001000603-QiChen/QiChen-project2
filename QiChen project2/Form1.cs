@@ -5,15 +5,21 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+<<<<<<< HEAD
 using System.Xml;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+=======
+using System.Threading.Tasks;
+using System.Windows.Forms;
+>>>>>>> 210ada9b4d35b05369defcecf333f0d203d71945
 
 namespace QiChen_project2
 {
     public partial class EmployeeRecordsForm : Form
     {
+<<<<<<< HEAD
         private TreeNode tvRootNode;
 
         public EmployeeRecordsForm()
@@ -144,3 +150,11 @@ namespace QiChen_project2
         }
     }
 }
+=======
+        public EmployeeRecordsForm()
+        {
+            InitializeComponent();
+        }
+    }
+}
+>>>>>>> 210ada9b4d35b05369defcecf333f0d203d71945
